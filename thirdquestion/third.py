@@ -17,7 +17,7 @@ def duplicate_words_gen(file_path):
                     yield word
 
 
-if __name__ = "__main__":
+if __name__ == "__main__":
     # Define parse args for python script
     parser = argparse.ArgumentParser(description='swapcase')
 
